@@ -11,7 +11,7 @@
     
 ###
 
-<p align="left">My name is Wendel Henrique da S. Rocha, I am 18 years old and I am from São Paulo. I will finish high school in 2024, and in parallel, I am taking a technical course in systems analysis and development at ETEC. I am currently studying Computer Science at Universidade Braz Cubas, located in Mogi das Cruzes, and am expected to complete it in the second half of 2028.<br>
+<p align="left">My name is Wendel Henrique da S. Rocha, I am 18 years old and I am from São Paulo. I've finished high school in 2024, and in parallel, a technical course in systems analysis and development at ETEC. I am currently studying Computer Science at Universidade Braz Cubas, located in Mogi das Cruzes, and am expected to complete it in the second half of 2028.<br>
 </p>
 <h1>
 
