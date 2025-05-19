@@ -1,12 +1,25 @@
-<h1> Wendel
+<h1> Wendel</h1>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-</h1>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-henrique-5a5274358/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/](https://www.instagram.com/wendel_hk/))
 
-My name is **Wendel Henrique da S. Rocha**, I am 18 years old and from São Paulo, Brazil.  
-I graduated from high school in 2024 while also completing a technical course in **Systems Analysis and Development** at **ETEC**.  
-Currently, I am pursuing a **Bachelor’s degree in Computer Science** at **Universidade Braz Cubas**, expected to graduate in the second half of 2028.
+Meu nome é **Wendel Henrique da S. Rocha**, tenho 18 anos e sou de São Paulo, Brasil.  
+Terminei o ensino médio em 2024, e em paralelo, no meio de 2024, fui formado Técnico em **Análise e desenvolvimento de sistenas** pela **ETEC**.  
+Atualmente estou cursando Ciência da computação na Universidade Braz Cubas, com previsão de término para a segunda metade de 2028.
 
+<br>
+
+<div>
+  
+  - 🎓 Estudando **Ciência da Computação** na Universidade Braz Cubas.
+
+  - 🎓 Tecnico em Análise e Desenvolvimento de Sistemas pela **ETEC**.
+    
+  - 🎮 Apaixonado em jogos, amo criar e aprender a cada dia.
+  
+  - 📍 Natural de Arujá - São Paulo.
+  
+</div>
+<br>
 
 ## 💻 Language and Tools
 
@@ -21,11 +34,17 @@ Currently, I am pursuing a **Bachelor’s degree in Computer Science** at **Univ
 
 
 ## 📊 GitHub Statistics
-
-
-![Wendel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wendel1&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendel1&layout=compact&theme=tokyonight)
+<div align="center">
+<img width="40%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendel1&layout=compact&bg_color=1e1f22&text_color=d6a8ff&title_color=d6a8ff&border_color=b57aff" 
+       alt="Linguagens Mais Usadas" />
+  
+<a href="https://awesome-github-stats.azurewebsites.net/user-stats/wendel1?cardType=github&theme=tokyonight">
+  <img width="49%" 
+       alt="wendel1's GitHub Stats" 
+       src="https://awesome-github-stats.azurewebsites.net/user-stats/wendel1?cardType=github&theme=tokyonight&bg=3d0075&text=e0b3ff&title=e0b3ff&ring=cc99ff&border=cc99ff" />
+</a>
+</div>
 
 ---
 
