@@ -11,11 +11,13 @@
     
 ###
 
-<p1 align="left">My name is Wendel Henrique da S. Rocha, I am 18 years old and I am from São Paulo. I will finish high school in 2024, and in parallel, I am taking a technical course in systems analysis and development at ETEC. I am currently studying Computer Science at Universidade Braz Cubas, located in Mogi das Cruzes, and am expected to complete it in the second half of 2028.<br>
-</p1>
+<p align="left">My name is Wendel Henrique da S. Rocha, I am 18 years old and I am from São Paulo. I will finish high school in 2024, and in parallel, I am taking a technical course in systems analysis and development at ETEC. I am currently studying Computer Science at Universidade Braz Cubas, located in Mogi das Cruzes, and am expected to complete it in the second half of 2028.<br>
+</p>
+<h1>
 
-###
----
+  
+</h1>
+
 
 <h3 align="center">🛠 Language and tools</h3>
 
@@ -25,10 +27,13 @@
   ![SQL](https://img.icons8.com/fluency/48/000000/database.png)
 ###
 
+<h1>
+
+  
+</h1>
 
 <h3 align="center">🛠 Statystics </h3>
 
----
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=190 src="https://github-readme-stats.vercel.app/api?username=wendel1&theme=radical&rank_icon=github" />
