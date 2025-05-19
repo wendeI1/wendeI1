@@ -1,46 +1,32 @@
-
-###
-
-<h1 align="leftr">Wendel<br>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/wendel-henrique-5a5274358/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="https://www.instagram.com/wendel_hk/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
+<h1> Wendel
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 </h1>
-    
-###
 
-<p align="left">My name is Wendel Henrique da S. Rocha, I am 18 years old and I am from São Paulo. I've finished high school in 2024, and in parallel, a technical course in systems analysis and development at ETEC. I am currently studying Computer Science at Universidade Braz Cubas, located in Mogi das Cruzes, and am expected to complete it in the second half of 2028.<br>
+My name is **Wendel Henrique da S. Rocha**, I am 18 years old and from São Paulo, Brazil.  
+I graduated from high school in 2024 while also completing a technical course in **Systems Analysis and Development** at **ETEC**.  
+Currently, I am pursuing a **Bachelor’s degree in Computer Science** at **Universidade Braz Cubas**, expected to graduate in the second half of 2028.
+
+
+## 💻 Language and Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </p>
-<h1>
-
-  
-</h1>
 
 
-<h3 align="center">🛠 Language and tools</h3>
 
-###
-  ![C](https://img.icons8.com/fluency/48/000000/c-programming.png)
-  ![Python](https://img.icons8.com/fluency/48/000000/python.png)
-  ![SQL](https://img.icons8.com/fluency/48/000000/database.png)
-###
-
-<h1>
-
-  
-</h1>
-
-<h3 align="center">🛠 Statystics </h3>
+## 📊 GitHub Statistics
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 src="https://github-readme-stats.vercel.app/api?username=wendel1&theme=radical&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=wendel1&langs_count=8&theme=radical" />
-</a>
+![Wendel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wendel1&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendel1&layout=compact&theme=tokyonight)
 
-###
+---
+
+> “The roots of education are bitter, but the fruit is sweet.” – Aristotle
