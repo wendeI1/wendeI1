@@ -35,14 +35,10 @@ Atualmente estou cursando Ciência da computação na Universidade Braz Cubas, c
 
 ## 📊 GitHub Statistics
 <div align="center">
-<img width="40%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendel1&layout=compact&bg_color=1e1f22&text_color=d6a8ff&title_color=d6a8ff&border_color=b57aff" 
-       alt="Linguagens Mais Usadas" />
-  
 <a href="https://awesome-github-stats.azurewebsites.net/user-stats/wendel1?cardType=github&theme=tokyonight">
   <img width="49%" 
        alt="wendel1's GitHub Stats" 
-       src="https://awesome-github-stats.azurewebsites.net/user-stats/wendel1?cardType=github&theme=tokyonight&bg=3d0075&text=e0b3ff&title=e0b3ff&ring=cc99ff&border=cc99ff" />
+       src="https://awesome-github-stats.azurewebsites.net/user-stats/wendel1?cardType=github&theme=dracula" />
 </a>
 </div>
 
