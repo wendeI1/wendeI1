@@ -19,7 +19,7 @@ Meu nome é **Wendel Henrique da S. Rocha**, tenho 18 anos e sou de São Paulo, 
 </div>
 <br>
 
-## 💻 Language and Tools
+## 💻 Linguagens e ferramentas
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
@@ -31,7 +31,7 @@ Meu nome é **Wendel Henrique da S. Rocha**, tenho 18 anos e sou de São Paulo, 
 
 
 
-## 📊 GitHub Statistics
+## 📊 Status
 <div align="center">
 <a href="https://awesome-github-stats.azurewebsites.net/user-stats/wendel1?cardType=github&theme=tokyonight">
   <img width="49%" 
