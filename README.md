@@ -8,9 +8,9 @@ Meu nome é **Wendel Henrique da S. Rocha**, tenho 18 anos e sou de São Paulo, 
 
 <div>
   
-  - 🎓 Estudando **Ciência da Computação** na Universidade Braz Cubas.
+  - 🎓 Estudando **Ciência da Computação** na Universidade Braz Cubas. (2025.1 -> 2028.2)
 
-  - 🎓 Tecnico em Análise e Desenvolvimento de Sistemas pela **ETEC**.
+  - 🎓 Tecnico em Análise e Desenvolvimento de Sistemas pela **ETEC**. (2023.1 -> 2024.2)
     
   - 🎮 Apaixonado em jogos, amo criar e aprender a cada dia.
   
