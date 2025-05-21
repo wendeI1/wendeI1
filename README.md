@@ -41,7 +41,7 @@ Meu nome é **Wendel Henrique da S. Rocha**, tenho 18 anos e sou de São Paulo, 
 </a>
 </div>
   
-  <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/wendel1/gitrepo/output/snake.svg" alt="Snake animation" />
   
 ---
 
