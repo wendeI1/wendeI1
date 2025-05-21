@@ -2,7 +2,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-henrique-5a5274358/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wendel_hk/)
 
-Meu nome é **Wendel Henrique da S. Rocha**, tenho 18 anos e sou de São Paulo, Brasil. Terminei o ensino médio em 2024, e em paralelo, no meio de 2024, fui formado Técnico em **Análise e desenvolvimento de sistenas** pela **ETEC**. Atualmente estou cursando Ciência da computação na Universidade Braz Cubas, com previsão de término para a segunda metade de 2028.
+Meu nome é **Wendel Henrique da S. Rocha**, tenho 18 anos e sou de São Paulo, Brasil. Terminei o ensino médio em 2024, e em paralelo, no meio de 2024, fui formado Técnico em **Análise e desenvolvimento de sistenas** pela **ETEC**. Atualmente estou cursando **Ciência da computação** na **Universidade Braz Cubas**, com previsão de término para o segundo semestre de 2028.
 
 <br>
 
