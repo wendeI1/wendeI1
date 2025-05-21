@@ -1,4 +1,4 @@
-<h1> Wendel</h1>
+<h1> Wendel </h1>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-henrique-5a5274358/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wendel_hk/)
 
@@ -40,7 +40,6 @@ Meu nome é **Wendel Henrique da S. Rocha**, tenho 18 anos e sou de São Paulo, 
        src="https://awesome-github-stats.azurewebsites.net/user-stats/wendel1?cardType=github&theme=dracula&include_all_commits" />
 </a>
 </div>
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wendel1/wendel1/output/github-contribution-grid-snake-dark.svg">
