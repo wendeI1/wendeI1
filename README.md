@@ -40,7 +40,9 @@ Meu nome é **Wendel Henrique da S. Rocha**, tenho 18 anos e sou de São Paulo, 
        src="https://awesome-github-stats.azurewebsites.net/user-stats/wendel1?cardType=github&theme=dracula&include_all_commits" />
 </a>
 </div>
-
+  
+  <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+  
 ---
 
 > “The roots of education are bitter, but the fruit is sweet.” – Aristotle
