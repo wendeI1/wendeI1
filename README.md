@@ -40,10 +40,6 @@ Meu nome é **Wendel Henrique da S. Rocha**, tenho 18 anos e sou de São Paulo, 
        src="https://awesome-github-stats.azurewebsites.net/user-stats/wendel1?cardType=github&theme=dracula&include_all_commits" />
 </a>
 </div>
-
-<picture align="center">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wendel1/wendel1/output/github-contribution-grid-snake.svg">
-</picture>
   
 ---
 
